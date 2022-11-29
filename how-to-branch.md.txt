@@ -1,3 +1,4 @@
 Ветки
 создать ветку: git branch surname
 переключиться в новую ветку: git checkout surname
+создать ветку на сервере:git push --set-upstream origin test
