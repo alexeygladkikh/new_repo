@@ -2,3 +2,7 @@
 создать ветку: git branch surname
 переключиться в новую ветку: git checkout surname
 создать ветку на сервере:git push --set-upstream origin test
+получить с сервера изменения во всех ветках: git fetch
+посмотреть все ветки: git branch --all
+посмотреть все ветки: git branch --all
+обьединить ветку с основной: git merge surname
